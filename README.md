@@ -24,4 +24,4 @@ This uses pandas and plotly to munge and plot the data. Enjoy!
 
 This is a small change I am making to the file. I'm going to extend this slightly.
 
-Yehawww, this is a pretty awesome new change to this file.
+Yehawww, this is a pretty awesome new change to this file. Extend this a bit more!
